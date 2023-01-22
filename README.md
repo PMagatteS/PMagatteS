@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pmagattes" alt="pmagattes" /></a> </p> -->
 
-- 🌱 I’m currently learning **Nexjs**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 Some of my projects are available at [https://sady.tech](https://sady.tech)
 
