@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Magatte👋</h1>
+<h1 align="center">Hi, I'm Magatte👋 </h1>
 <h3 align="center"  >A passionate frontend developer from <span style="background:linear-gradient(to left, #84cc16, #fbbf24, #dc2626);color:transparent;-webkit-background-clip: text;">Senegal</span></h3>
 
 
