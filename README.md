@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmagattes&show_icons=true&locale=en&theme=gruvbox" alt="pmagattes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pmagattes&theme=gruvbox" alt="pmagattes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pmagattes" alt="pmagattes" /></p>
