@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 Some of my projects are available at [https://sady.tech](https://sady.tech)
-
-- 💬 Ask me about **React, Python and Javascript**
+💬 Ask me about **React, Python and Javascript**
 
 - 📫 How to reach me **papamagatte@gmail.com**
 
