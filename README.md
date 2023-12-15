@@ -10,7 +10,7 @@
 
 💬 Ask me about **React, Python and Javascript**
 
-- 📫 How to reach me **papamagatte@gmail.com**
+- 📫 How to reach me **papamagattesady@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
